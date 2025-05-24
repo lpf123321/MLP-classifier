@@ -8,5 +8,4 @@ The simplest neural networks are called *multilayer perceptrons*(MLP), consistin
   * torch 2.7.0
   * matplotlib 3.10.1
 ## Demo
-![![image](https://github.com/user-attachments/assets/af7a8189-4545-43ff-a20d-5a72d105bdaa)
-]
+![image](https://github.com/user-attachments/assets/af7a8189-4545-43ff-a20d-5a72d105bdaa)
