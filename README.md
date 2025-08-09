@@ -1,5 +1,5 @@
 # MLP-classifier
-A simple feedforward neural network module used for classifying images. 
+A simple feedforward neural network module used for classifying images in dataset FashionMNIST. 
 ## Introduction
 The simplest neural networks are called *multilayer perceptrons*(MLP), consisting of multiple layers of neurons that are fully connected to those in the layer below and those above. This small project has constructed an MLP with one hidden layer, which are used to classify images loaded from the FashionMNIST dataset. Suitable and friendly for deep learning beginners.
 ## Denpendencies
